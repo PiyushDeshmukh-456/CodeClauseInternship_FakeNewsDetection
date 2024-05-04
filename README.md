@@ -1,4 +1,4 @@
-# Fake News Prediction
+# Fake News Detection 
 1.	Importing Libraries: The code starts by importing necessary Python libraries, including NumPy, Pandas, regular expression (re), NLTK (Natural Language Toolkit) for text processing, scikit-learn for machine learning, and the necessary NLTK stopwords and PorterStemmer.
 2.	Data Loading: The news dataset is loaded from a CSV file named 'train.csv'.
 3.	Handling Missing Values: The code checks for missing values in the dataset and replaces them with empty strings.
